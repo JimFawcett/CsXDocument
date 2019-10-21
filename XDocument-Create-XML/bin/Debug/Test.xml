@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Demonstration XML-->
+<root>
+  <child1 number="first">child1 content</child1>
+  <child2 number="second">
+    <grandchild21>content of grandchild21</grandchild21>
+  </child2>
+</root>

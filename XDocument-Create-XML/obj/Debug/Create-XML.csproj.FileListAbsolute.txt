@@ -1,0 +1,14 @@
+C:\su\cse681\code\LINQ-Create-XML\LINQ-Create-XML\bin\Debug\LINQ-Create-XML.exe.config
+C:\su\cse681\code\LINQ-Create-XML\LINQ-Create-XML\bin\Debug\LINQ-Create-XML.exe
+C:\su\cse681\code\LINQ-Create-XML\LINQ-Create-XML\bin\Debug\LINQ-Create-XML.pdb
+C:\su\cse681\code\LINQ-Create-XML\LINQ-Create-XML\obj\Debug\Create-XML.csprojResolveAssemblyReference.cache
+C:\su\cse681\code\LINQ-Create-XML\LINQ-Create-XML\obj\Debug\LINQ-Create-XML.exe
+C:\su\cse681\code\LINQ-Create-XML\LINQ-Create-XML\obj\Debug\LINQ-Create-XML.pdb
+C:\SU\coretechnologies\CSharp\code\XDocument-Create-XML\XDocument-Create-XML\bin\Debug\LINQ-Create-XML.exe.config
+C:\SU\coretechnologies\CSharp\code\XDocument-Create-XML\XDocument-Create-XML\obj\Debug\LINQ-Create-XML.exe
+C:\SU\coretechnologies\CSharp\code\XDocument-Create-XML\XDocument-Create-XML\bin\Debug\LINQ-Create-XML.exe
+C:\SU\coretechnologies\CSharp\code\XDocument-Create-XML\XDocument-Create-XML\bin\Debug\LINQ-Create-XML.pdb
+C:\SU\coretechnologies\CSharp\code\XDocument-Create-XML\XDocument-Create-XML\bin\Debug\DemoExtensions.exe
+C:\SU\coretechnologies\CSharp\code\XDocument-Create-XML\XDocument-Create-XML\bin\Debug\DemoExtensions.pdb
+C:\SU\coretechnologies\CSharp\code\XDocument-Create-XML\XDocument-Create-XML\obj\Debug\Create-XML.csprojResolveAssemblyReference.cache
+C:\SU\coretechnologies\CSharp\code\XDocument-Create-XML\XDocument-Create-XML\obj\Debug\LINQ-Create-XML.pdb

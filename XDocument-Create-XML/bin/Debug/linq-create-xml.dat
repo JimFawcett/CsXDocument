@@ -1,0 +1,65 @@
+
+  Demonstrating XDocument class
+ ===============================
+
+  Creating XML string using XDocument
+ -------------------------------------
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Demonstration XML-->
+<root>
+  <child1 number="first">child1 content</child1>
+  <child2 number="second">
+    <grandchild21>content of grandchild21</grandchild21>
+  </child2>
+</root>
+
+  Creating XML file using XDocument
+ -----------------------------------
+
+  Reading and displaying saved file
+ -----------------------------------
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Demonstration XML-->
+<root>
+  <child1 number="first">child1 content</child1>
+  <child2 number="second">
+    <grandchild21>content of grandchild21</grandchild21>
+  </child2>
+</root>
+
+  Reading and displaying XML from string
+ ----------------------------------------
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Demonstration XML-->
+<root>
+  <child1 number="first">child1 content</child1>
+  <child2 number="second">
+    <grandchild21>content of grandchild21</grandchild21>
+  </child2>
+</root>
+
+  Find element by TagName
+ -------------------------
+<child1 number="first">child1 content</child1>
+
+  Find element by attribute name
+ --------------------------------
+<child1 number="first">child1 content</child1>
+<child2 number="second">
+  <grandchild21>content of grandchild21</grandchild21>
+</child2>
+
+  Find element by attribute name/value pair
+ -------------------------------------------
+<child2 number="second">
+  <grandchild21>content of grandchild21</grandchild21>
+</child2>
+
+  Find element by value - Note: you may get more than you expected
+ ------------------------------------------------------------------
+<child2 number="second">
+  <grandchild21>content of grandchild21</grandchild21>
+</child2>
+<grandchild21>content of grandchild21</grandchild21>
+

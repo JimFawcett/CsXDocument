@@ -1,0 +1,11 @@
+C:\SU\temp\LINQ-Create-XML\LINQ-Create-XML\bin\Debug\LINQ-Create-XML.exe.config
+C:\SU\temp\LINQ-Create-XML\LINQ-Create-XML\bin\Debug\LINQ-Create-XML.exe
+C:\SU\temp\LINQ-Create-XML\LINQ-Create-XML\bin\Debug\LINQ-Create-XML.pdb
+C:\SU\temp\LINQ-Create-XML\LINQ-Create-XML\obj\Debug\LINQ-Create-XML.csprojResolveAssemblyReference.cache
+C:\SU\temp\LINQ-Create-XML\LINQ-Create-XML\obj\Debug\LINQ-Create-XML.exe
+C:\SU\temp\LINQ-Create-XML\LINQ-Create-XML\obj\Debug\LINQ-Create-XML.pdb
+C:\su\cse681\code\LINQ-Create-XML\LINQ-Create-XML\bin\Debug\LINQ-Create-XML.exe.config
+C:\su\cse681\code\LINQ-Create-XML\LINQ-Create-XML\obj\Debug\LINQ-Create-XML.exe
+C:\su\cse681\code\LINQ-Create-XML\LINQ-Create-XML\obj\Debug\LINQ-Create-XML.pdb
+C:\su\cse681\code\LINQ-Create-XML\LINQ-Create-XML\bin\Debug\LINQ-Create-XML.exe
+C:\su\cse681\code\LINQ-Create-XML\LINQ-Create-XML\bin\Debug\LINQ-Create-XML.pdb

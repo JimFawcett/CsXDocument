@@ -1,0 +1,6 @@
+C:\su\coretechnologies\CSharp\code\XDocument-Create-XML\DemoExtensions\bin\Debug\DemoExtensions.exe.config
+C:\su\coretechnologies\CSharp\code\XDocument-Create-XML\DemoExtensions\bin\Debug\DemoExtensions.exe
+C:\su\coretechnologies\CSharp\code\XDocument-Create-XML\DemoExtensions\bin\Debug\DemoExtensions.pdb
+C:\su\coretechnologies\CSharp\code\XDocument-Create-XML\DemoExtensions\obj\Debug\DemoExtensions.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\CSharp\code\XDocument-Create-XML\DemoExtensions\obj\Debug\DemoExtensions.exe
+C:\su\coretechnologies\CSharp\code\XDocument-Create-XML\DemoExtensions\obj\Debug\DemoExtensions.pdb
